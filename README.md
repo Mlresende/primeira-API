@@ -5,7 +5,7 @@ API que fornecerá livros, opções de consulta, criação, edição e exclusão
 
 - Utilizarei o framework Flask para auxiliar o projeto;
 - Jsonify é o que permite retornar no formato Json(formato esperado da api);
-- CRUD criado para realizar operações básicas no dicionari;
+- CRUD criado para realizar operações básicas no dicionario;
 - Postman utilizado para realizar os testes na API.
 
 ## Endpoints
