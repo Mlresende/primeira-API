@@ -20,7 +20,6 @@ livros = [
             },
         ]
 
-
 # Consulta (todos)
 @app.route('/livros')
 def obterLivros(): 
